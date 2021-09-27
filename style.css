@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+    background-color: #5f27cdff;
+    color: #dbedf3;
+    font-family: cursive;
+  }
+  
+  h1 {
+    font-size: 5em;
+    text-shadow: 3px 0 red;
+  }
+  
+  .drum-container {
+    height: 400px;
+  }
+  
+  p {
+    color: white;
+  }
+  
+  .drum {
+    border: 10px solid black;
+    font-family:'Arvo', cursive;
+    border-radius: 50%;
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    background-color: red;
+  }
+  
